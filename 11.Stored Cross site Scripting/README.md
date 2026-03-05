@@ -1,6 +1,6 @@
 # 11. Stored Cross-Site Scripting (XSS Persistente)
 
-## 📖 Descripción
+## Descripción
 El **XSS Almacenado** ocurre cuando una aplicación recibe datos de un usuario y los guarda en su base de datos sin filtrarlos. Posteriormente, esos datos se renderizan en el navegador de cualquier usuario que visite la sección afectada. Es el vector más crítico de XSS, ya que el ataque es automático, permanente y no requiere que la víctima haga clic en un enlace malicioso.
 
 ---

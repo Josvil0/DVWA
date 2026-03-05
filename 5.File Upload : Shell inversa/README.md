@@ -22,7 +22,7 @@ Al intentar subir el archivo directamente, el servidor rechaza la petición indi
 
 Gracias a esto, el servidor valida la petición como legítima y permite la subida del script malicioso.
 
-![Figura 11: Modificación del Content-Type en la petición POST](screenshots/screenshots/figura11.png)
+![Figura 11: Modificación del Content-Type en la petición POST](screenshots/figura11.png)
 
 ---
 
